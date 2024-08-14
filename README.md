@@ -1,8 +1,8 @@
 # JuHeon's GitHub
 
-## Hello, My Hope World 👋
+## Welcome to My World 👋
 
-Welcome! Thanks for coming to my Github.
+Hello there! Thanks for visiting my GitHub profile.
 
 ###  Tech Stack 
 
@@ -17,7 +17,7 @@ Welcome! Thanks for coming to my Github.
 
 ###  Most Used Languages 
 
-![LeejuHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejugwi&show_icons=true&theme=radical)
+![JuHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejugwi&show_icons=true&theme=radical)
 
 ###  My Stats 
 
